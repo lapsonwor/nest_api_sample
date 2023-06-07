@@ -36,6 +36,9 @@ $ npm install
 ## Running the app
 
 ```bash
+# data migration to PostgreSQL
+$ npm run migration:run
+
 # development
 $ npm run start
 
